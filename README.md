@@ -6,9 +6,11 @@ A golang version of Pastebin with syntax highlighting, driven by MongoDB
 # Dependencies
 
 <code>go get labix.org/v3/mgo</code>
-You might need Murcurial or Bazaar
 
-<code>go get github,com/astaxie/beego</code>
+You might need Mercurial or Bazaar
+
+<code>go get github.com/astaxie/beego</code>
+
 <code>go get github.com/beego/bee</code>
 
 Copy the bee (or bee.exe) program to your PATH.
