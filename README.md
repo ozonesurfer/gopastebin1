@@ -5,7 +5,7 @@ A golang version of Pastebin with syntax highlighting, driven by MongoDB
 
 # Dependencies
 
-<code>go get labix.org/v3/mgo</code>
+<code>go get labix.org/v2/mgo</code>
 
 You might need Mercurial or Bazaar
 
